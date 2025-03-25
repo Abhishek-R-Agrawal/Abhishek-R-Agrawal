@@ -1,5 +1,12 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abhishek
+================================================================================================================================
 
+Business Analyst
+----------------
+
+Experienced Data Analyst with a robust MBA in Business Analytics, skilled in leveraging data to optimize staffing and payroll functions. Adept in using advanced analytics tools like SQL, Power BI, Python, and Tableau to develop actionable insights, improve scheduling accuracy, and identify cost-saving opportunities. Committed to enhancing employee management processes and patient care efficiency in healthcare settings
+
+*   🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/abhishek-r-agrawal/)
 
 
 - 🔭 I’m currently working on 
